@@ -7,7 +7,7 @@
         "tanggal": "03",
         "bulan": "October",
         "tahun": "2024",
-        "foto": "https://firebasestorage.googleapis.com/v0/b/newsapi-442013.firebasestorage.app/o/berita1.jpeg?alt=media&token=d538baaf-155d-450d-86ef-f83c884816ac"
+        "foto": "berita1.jpeg"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "tanggal": "02",
         "bulan": "October",
         "tahun": "2024",
-        "foto": "https://firebasestorage.googleapis.com/v0/b/newsapi-442013.firebasestorage.app/o/berita2.jpg?alt=media&token=1c765383-716c-42e2-bba4-0a2803f59ef4"
+        "foto": "berita2.jpg"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "tanggal": "02",
         "bulan": "October",
         "tahun": "2024",
-        "foto": "https://firebasestorage.googleapis.com/v0/b/newsapi-442013.firebasestorage.app/o/berita3.jpeg?alt=media&token=3a5dad95-74cf-4072-83ce-872b7b8edb13"
+        "foto": "berita3.jpeg"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "tanggal": "02",
         "bulan": "Juni",
         "tahun": "2022",
-        "foto": "https://firebasestorage.googleapis.com/v0/b/newsapi-442013.firebasestorage.app/o/berita4.jpg?alt=media&token=d1cc4726-279f-4c56-8d76-5c47499093da"
+        "foto": "berita4.jpg"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "tanggal": "11",
         "bulan": "October",
         "tahun": "2022",
-        "foto": "https://firebasestorage.googleapis.com/v0/b/newsapi-442013.firebasestorage.app/o/berita5.jpg?alt=media&token=b7db7ee9-6223-4d89-834f-fac924fb5076"
+        "foto": "berita5.jpg"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "tanggal": "02",
         "bulan": "October",
         "tahun": "2024",
-        "foto": "https://firebasestorage.googleapis.com/v0/b/newsapi-442013.firebasestorage.app/o/berita6.jpg?alt=media&token=8ac5b0aa-e749-4fda-9b4c-a5d50e1698e3"
+        "foto": "berita6.jpg"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "tanggal": "09",
         "bulan": "Agustus",
         "tahun": "2023",
-        "foto": "https://firebasestorage.googleapis.com/v0/b/newsapi-442013.firebasestorage.app/o/berita7.jpg?alt=media&token=48535900-be18-4991-a3a8-4b62e2e21b05"
+        "foto": "berita7.jpg"
     },
     {
         "id": 8,
@@ -77,17 +77,17 @@
         "tanggal": "23",
         "bulan": "Mei",
         "tahun": "2016",
-        "foto": "https://firebasestorage.googleapis.com/v0/b/newsapi-442013.firebasestorage.app/o/berita8.jpg?alt=media&token=a9a9cf5d-28b8-45a0-8980-ce139b3972cf"
+        "foto": "berita8.jpg"
     },
     {
         "id": 9,
-        "judul": "Motif Batik Kupang Nusa Tenggara Timur: Motif yang Terinspirasi dari Tenun Ikat",
+        "judul": " Motif Batik Kupang Nusa Tenggara Timur: Motif yang Terinspirasi dari Tenun Ikat",
         "deskripsi": "Batik Nusa Tenggara Timur memiliki motif dan pesonanya tersendiri. Pernahkah terlintas di benak Anda bahwa Nusa Tenggara Timur kini tak hanya mengandalkan kerajinan tenun ikatnya, tetapi juga batik sebagai bagian karya seni tekstilnya?\n\nSemenjak UNESCO mengakui batik sebagai Warisan Budaya Dunia, telah banyak lahir batik-batik khas di seluruh Indonesia, termasuk batik Nusa Tenggara Timur (NTT). Berpusat di Kupang, motif batik NTT lahir dengan corak khas yang unik sesuai potensi alam dan budaya setempat. Seperti apa? Simak penjelasan selengkapnya.\n\n**Teknik Batik Kupang NTT**\nBatik Nusa Tenggara Timur dikembangkan di daerah Kupang yang notabene merupakan ibukota NTT. Kerajinan batik sendiri belum sepopuler seni kerajinan tekstil yakni tenun yang mengakar kuat dalam budaya dan tradisi di Nusa Tenggara.\n\nSecara teknik, proses pembuatan batik sama dengan teknik tradisional di Jawa, yaitu dengan menggambar menggunakan alat yang disebut canting. Selain itu, teknik lainnya ada yang memakai alat cap atau kombinasi teknik keduanya.\n\n**Inspirasi Motif Batik NTT**\nKeunikan motif batik Kupang NTT tak lepas dari inspirasi motif tenun ikat karena budaya menenun merupakan salah satu identitas bagi masyarakat lokal di Nusa Tenggara. Kain tenun yang dihasilkan dari alat tenun bukan mesin (ATBM) oleh para pengrajin disebut kain ikat.\n\nSementara itu, untuk menghias batik, batik khas Nusa Tenggara Timur mengembangkan inspirasi dari kehidupan sekitar, yakni memasukkan unsur-unsur dari alam, tumbuhan, hewan, tokoh mitologi, serta harapan baik. Keunikan motif ini pun semakin kaya dengan ciri khas setiap etnis atau budaya di berbagai pulau di provinsi ini.",
         "author": "F Nisa",
         "tanggal": "09",
         "bulan": "Januari",
         "tahun": "2023",
-        "foto": "https://firebasestorage.googleapis.com/v0/b/newsapi-442013.firebasestorage.app/o/berita9.jpg?alt=media&token=fce8bf14-e5fd-4a42-9c1f-b03635a0f6e8"
+        "foto": "berita9.jpg"
     },
     {
         "id": 10,
@@ -97,6 +97,6 @@
         "tanggal": "18",
         "bulan": "Juni",
         "tahun": "2024",
-        "foto": "https://firebasestorage.googleapis.com/v0/b/newsapi-442013.firebasestorage.app/o/berita10.jpg?alt=media&token=f644eccc-0ef9-4992-a639-ccf375422a30"
+        "foto": "berita10.jpg"
     }
 ]
